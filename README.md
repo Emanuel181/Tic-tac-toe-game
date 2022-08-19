@@ -15,3 +15,7 @@ The program will be downloaded first by clicking on the green "Code" button and 
 
 ### <img height="52" width="52" src="https://cdn-icons-png.flaticon.com/512/5361/5361007.png"> Demo - How it works
 
+![image](https://user-images.githubusercontent.com/92999481/185658495-6f0fd757-171c-49df-9560-3e1516078ba3.png)
+![image](https://user-images.githubusercontent.com/92999481/185658535-865fa152-4978-4ced-a14c-d5af6364f745.png) <br>
+![image](https://user-images.githubusercontent.com/92999481/185658569-a21ee902-0c37-44c3-a6c4-57cb9049aad9.png)
+
